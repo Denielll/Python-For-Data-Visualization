@@ -1,5 +1,7 @@
 # Python For Data Visualization
 
+This repository is for those who would like to practice Data Visualization in Python !
+
 ## example
 * Seaborn
 * Plotly
